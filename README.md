@@ -1,7 +1,6 @@
 # 🏰 마을을 지켜라! – Minecraft Education 블록 코딩
 
 ![Minecraft Education](https://img.shields.io/badge/Minecraft-Education-blue?style=for-the-badge&logo=minecraft&logoColor=white)
-![교육대상](https://img.shields.io/badge/-green?style=for-the-badge)
 ![수업기간](https://img.shields.io/badge/총_24차시-12주-orange?style=for-the-badge)
 ![코딩비율](https://img.shields.io/badge/코딩-60%25-blueviolet?style=for-the-badge)
 ![플레이비율](https://img.shields.io/badge/플레이-40%25-yellow?style=for-the-badge)
@@ -9,7 +8,7 @@
 ---
 
 ## 📖 프로젝트 소개
-**“마을을 지켜라!”**는 초등학교 2–3학년을 대상으로 한 **스토리 기반 마인크래프트 Education 코딩 프로그램**입니다.  
+**“마을을 지켜라!”**는 **스토리 기반 마인크래프트 Education 코딩 프로그램**입니다.  
 플레이 40%와 코딩 60%의 비율로, 단순한 게임 체험이 아니라 **논리적 사고력, 협동심, 문제 해결 능력**을 키우는 것을 목표로 합니다.  
 
 - 수업 기간: **총 24차시 (12주, 주 2회)**  
@@ -27,9 +26,45 @@
 ---
 
 ## 📂 저장소 구조
-```plaintext
-📦 village-defense
- ┣ 📁 blocks/          # 블록 코딩 샘플 코드
- ┣ 📁 docs/            # 강사용 자료, 활동지, 차시별 지도안
- ┣ 📁 images/          # 홍보 및 수업 보조용 이미지
- ┣ 📄 README.md        # 프로젝트 설명 문서 (본 문서)
+village-defense
+┣ blocks/ # 블록 코딩 샘플 코드
+┣ docs/ # 강사용 자료, 활동지, 차시별 지도안
+┣ images/ # 홍보 및 수업 보조용 이미지
+┗ README.md # 프로젝트 설명 문서 (본 문서)
+
+yaml
+코드 복사
+
+---
+
+## 🧩 블록 코딩 예시
+| 코드 | 설명 |
+|------|------|
+| `f1` | 흙 1개 생성하기 |
+| `m1` | 레드스톤 횃불 제작하기 |
+| `w2` | 우민 웨이브 소환 |
+| `w8` | 최종 보스 웨이브 발생 |
+
+👉 전체 블록 코드는 [blocks 폴더](./blocks)에서 확인 가능합니다.
+
+---
+
+## 🎯 학습 목표
+- 블록 코딩을 통한 **프로그래밍 개념 이해**  
+- **협동적 문제 해결 능력** 강화  
+- 게임 기반 학습을 통한 **학습 동기 유발**  
+- 직업별 역할 수행을 통한 **팀워크 경험**
+
+---
+
+## 🚀 향후 개발 계획
+- [x] 블록 코딩 코드 정리 및 리팩토링  
+- [x] 차시별 수업지도안 제작  
+- [ ] 추가 직업/스킬 시스템 개발  
+- [ ] 최종 전시회 모드 확장  
+
+---
+
+## 📜 라이선스
+본 프로젝트는 **교육 목적**으로만 사용 가능합니다.  
+상업적 이용은 제한됩니다.  
