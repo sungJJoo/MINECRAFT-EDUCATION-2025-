@@ -1,7 +1,7 @@
 # 🏰 마을을 지켜라! – Minecraft Education 블록 코딩
 
 ![Minecraft Education](https://img.shields.io/badge/Minecraft-Education-blue?style=for-the-badge&logo=minecraft&logoColor=white)
-![교육대상](https://img.shields.io/badge/대상-초등2~3학년-green?style=for-the-badge)
+![교육대상](https://img.shields.io/badge/-green?style=for-the-badge)
 ![수업기간](https://img.shields.io/badge/총_24차시-12주-orange?style=for-the-badge)
 ![코딩비율](https://img.shields.io/badge/코딩-60%25-blueviolet?style=for-the-badge)
 ![플레이비율](https://img.shields.io/badge/플레이-40%25-yellow?style=for-the-badge)
